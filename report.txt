@@ -1,0 +1,40 @@
+RF[ 0]: xxxxxxxxxxxxxxxx
+RF[ 1]: xxxxxxxxxxxxxxxx
+RF[ 2]: xxxxxxxxxxxxxxxx
+RF[ 3]: xxxxxxxxxxxxxxxx
+RF[ 4]: 00000000000000ff
+RF[ 5]: xxxxxxxxxxxxxxxx
+RF[ 6]: xxxxxxxxxxxxxxxx
+RF[ 7]: xxxxxxxxxxxxxxxx
+RF[ 8]: xxxxxxxxxxxxxxxx
+RF[ 9]: xxxxxxxxxxxxxxxx
+RF[10]: xxxxxxxxxxxxxxxx
+RF[11]: xxxxxxxxxxxxxxxx
+RF[12]: xxxxxxxxxxxxxxxx
+RF[13]: xxxxxxxxxxxxxxxx
+RF[14]: xxxxxxxxxxxxxxxx
+RF[15]: xxxxxxxxxxxxxxxx
+RF[16]: xxxxxxxxxxxxxxxx
+RF[17]: xxxxxxxxxxxxxxxx
+RF[18]: xxxxxxxxxxxxxxxx
+RF[19]: xxxxxxxxxxxxxxxx
+RF[20]: xxxxxxxxxxxxxxxx
+RF[21]: xxxxxxxxxxxxxxxx
+RF[22]: xxxxxxxxxxxxxxxx
+RF[23]: xxxxxxxxxxxxxxxx
+RF[24]: xxxxxxxxxxxxxxxx
+RF[25]: xxxxxxxxxxxxxxxx
+RF[26]: xxxxxxxxxxxxxxxx
+RF[27]: xxxxxxxxxxxxxxxx
+RF[28]: xxxxxxxxxxxxxxxx
+RF[29]: xxxxxxxxxxxxxxxx
+RF[30]: xxxxxxxxxxxxxxxx
+RF[31]: xxxxxxxxxxxxxxxx
+DMEM[ 0]: 00000000000000ff
+DMEM[ 1]: 000000000000ffff
+DMEM[ 2]: 0000000000000002
+DMEM[ 3]: 0000000000000003
+DMEM[ 4]: 0000000000000004
+DMEM[ 5]: 0000000000000005
+DMEM[ 6]: 0000000000000006
+DMEM[ 7]: 0000000000000007
